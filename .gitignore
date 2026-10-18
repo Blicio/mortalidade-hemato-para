@@ -1,0 +1,12 @@
+# Saidas geradas pelos scripts
+resultados/
+figuras/
+microdados/
+satscan/*.prm
+# Configuracao local de cada computador
+scripts/config_local.R
+# R e Office
+.Rhistory
+.RData
+.Rproj.user/
+~$*
