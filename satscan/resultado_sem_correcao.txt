@@ -1,0 +1,269 @@
+                                 _____________________________
+
+                                        SaTScan v10.3.3
+                                 _____________________________
+
+
+Program run on: Fri Oct 16 21:03:10 2026
+
+Retrospective Space-Time analysis
+scanning for clusters with high or low rates
+using the Discrete Poisson model
+including purely spatial clusters.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2000/1/1 to 2024/12/31
+Number of locations................: 143
+Population, averaged over time.....: 276
+Total number of cases..............: 6906
+Annual cases / 100000..............: 99919.9
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 150140
+  Coordinates / radius..: (1.240696 S, 48.459852 W) / 0 km
+  Span..................: 0 km
+  Time frame............: 2000/1/1 to 2024/12/31
+  Population............: 57
+  Number of cases.......: 2480
+  Expected cases........: 1433.77
+  Annual cases / 100000.: 172832.2
+  Observed / expected...: 1.73
+  Relative risk.........: 2.14
+  Log likelihood ratio..: 419.767782
+  P-value...............: 0.001
+
+2.Location IDs included.: 150420, 150370, 150553, 150277, 150215, 150295, 150497, 150506,
+                          150034, 150715, 150775, 150380, 150750, 150840, 150563, 150157,
+                          150745, 150175, 150549, 150616, 150013, 150810, 150808, 150309,
+                          150618, 150125, 150304, 150178, 150548, 150085, 150555, 150780,
+                          150543, 150613, 150120, 150293, 150270, 150730, 150795, 150658,
+                          150276, 150470, 150460, 150812, 150835, 150580, 150110, 150520,
+                          150210
+  Coordinates / radius..: (5.630017 S, 50.016370 W) / 379.39 km
+  Span..................: 714.85 km
+  Time frame............: 2000/1/1 to 2024/12/31
+  Population............: 68
+  Number of cases.......: 1138
+  Expected cases........: 1710.39
+  Annual cases / 100000.: 66481.2
+  Observed / expected...: 0.67
+  Relative risk.........: 0.60
+  Log likelihood ratio..: 139.144685
+  P-value...............: 0.001
+
+3.Location IDs included.: 150195, 150830, 150655, 150495, 150307, 150230, 150540, 150170,
+                          150090, 150350, 150160, 150405, 150803, 150220, 150560, 150660,
+                          150610, 150760, 150500, 150611, 150095, 150720, 150690, 150320,
+                          150747, 150740, 150275, 150340, 150430, 150620, 150240, 150410,
+                          150550, 150190, 150345, 150440, 150796, 150650, 150746, 150290,
+                          150800, 150710, 150150, 150700, 150442, 150020, 150820
+  Coordinates / radius..: (1.988713 S, 46.443195 W) / 218.69 km
+  Span..................: 281.29 km
+  Time frame............: 2000/1/1 to 2004/12/31
+  Population............: 64
+  Number of cases.......: 97
+  Expected cases........: 210.52
+  Annual cases / 100000.: 46038.6
+  Observed / expected...: 0.46
+  Relative risk.........: 0.45
+  Log likelihood ratio..: 39.316813
+  P-value...............: 0.001
+
+4.Location IDs included.: 150230, 150307, 150405, 150350, 150495, 150655, 150095, 150540,
+                          150720, 150760, 150160, 150660, 150275, 150195, 150340, 150500,
+                          150220, 150560, 150830
+  Coordinates / radius..: (2.042080 S, 47.233465 W) / 104.12 km
+  Span..................: 174.36 km
+  Time frame............: 2012/1/1 to 2023/12/31
+  Population............: 20
+  Number of cases.......: 185
+  Expected cases........: 276.49
+  Annual cases / 100000.: 66855.5
+  Observed / expected...: 0.67
+  Relative risk.........: 0.66
+  Log likelihood ratio..: 17.783501
+  P-value...............: 0.003
+
+5.Location IDs included.: 150130, 150080
+  Coordinates / radius..: (1.498476 S, 48.634230 W) / 33.31 km
+  Span..................: 33.31 km
+  Time frame............: 2000/1/1 to 2024/12/31
+  Population............: 20
+  Number of cases.......: 633
+  Expected cases........: 507.32
+  Annual cases / 100000.: 124674.4
+  Observed / expected...: 1.25
+  Relative risk.........: 1.27
+  Log likelihood ratio..: 15.664530
+  P-value...............: 0.008
+
+6.Location IDs included.: 150250, 150640, 150070, 150030, 150790, 150200, 150570, 150180,
+                          150770, 150490, 150630, 150280
+  Coordinates / radius..: (0.032605 S, 49.837906 W) / 173.15 km
+  Span..................: 240.34 km
+  Time frame............: 2001/1/1 to 2006/12/31
+  Population............: 12
+  Number of cases.......: 23
+  Expected cases........: 53.51
+  Annual cases / 100000.: 42944.3
+  Observed / expected...: 0.43
+  Relative risk.........: 0.43
+  Log likelihood ratio..: 11.159957
+  P-value...............: 0.229
+
+7.Location IDs included.: 150440, 150410, 150290, 150430, 150796, 150746, 150710, 150320,
+                          150740
+  Coordinates / radius..: (0.837682 S, 47.709801 W) / 41.14 km
+  Span..................: 59.81 km
+  Time frame............: 2012/1/1 to 2012/12/31
+  Population............: 8
+  Number of cases.......: 0
+  Expected cases........: 8.10
+  Annual cases / 100000.: 0
+  Observed / expected...: 0
+  Relative risk.........: 0
+  Log likelihood ratio..: 8.107655
+  P-value...............: 0.966
+
+8.Location IDs included.: 150250, 150640, 150070, 150030, 150790, 150200, 150570, 150180
+  Coordinates / radius..: (0.032605 S, 49.837906 W) / 149.46 km
+  Span..................: 227.15 km
+  Time frame............: 2013/1/1 to 2016/12/31
+  Population............: 9
+  Number of cases.......: 16
+  Expected cases........: 37.67
+  Annual cases / 100000.: 42438.8
+  Observed / expected...: 0.42
+  Relative risk.........: 0.42
+  Log likelihood ratio..: 8.004410
+  P-value...............: 0.975
+_______________________________________________________________________________________________
+
+ADDITIONAL RESULTS FILES
+
+Cluster Information  : C:\Users\Pablicio\OneDrive\Documentos\Leucemia_Bases_de_dados\satscan_entrada\satscan_entrada\resultado_sem_correcao.col.txt
+Location Information : C:\Users\Pablicio\OneDrive\Documentos\Leucemia_Bases_de_dados\satscan_entrada\satscan_entrada\resultado_sem_correcao.gis.txt
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\Pablicio\OneDrive\Documentos\Leucemia_Bases_de_dados\satscan_entrada\satscan_entrada\obitos.cas
+  Population File  : C:\Users\Pablicio\OneDrive\Documentos\Leucemia_Bases_de_dados\satscan_entrada\satscan_entrada\esperados.pop
+  Time Precision   : Year
+  Start Date       : 2000/1/1
+  End Date         : 2024/12/31
+  Coordinates File : C:\Users\Pablicio\OneDrive\Documentos\Leucemia_Bases_de_dados\satscan_entrada\satscan_entrada\municipios.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Retrospective Space-Time
+  Probability Model       : Discrete Poisson
+  Scan For Areas With     : High or Low Rates
+  Time Aggregation Units  : Year
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File                : C:\Users\Pablicio\OneDrive\Documentos\Leucemia_Bases_de_dados\satscan_entrada\satscan_entrada\resultado_sem_correcao.txt
+  HTML file for Google Map         : No
+  KML file for Google Earth        : No
+  Shapefile for GIS software       : No
+  HTML file for Cartesian map      : No
+  Cluster Information              : Yes (ASCII), No (dBase)
+  Stratified Cluster Information   : No (ASCII), No (dBase)
+  Location Information             : Yes (ASCII), No (dBase)
+  Risk Estimates for Each Location : No (ASCII), No (dBase)
+  Simulated Log Likelihood Ratios  : No (ASCII), No (dBase)
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Specify neighbors through a non-Euclidean neighbors file : No
+  Specify a meta location file                             : No
+  Observations with Multiple Locations                     : One location per observation.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 25 percent of population at risk
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 1 Year
+  Maximum Temporal Cluster Size   : 50 percent of study period
+  Include Purely Spatial Clusters : Yes
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+  Restrict Low Rate Clusters              : No
+
+Space And Time Adjustments
+--------------------------
+  Temporal Adjustment                     : None
+  Adjust for Weekly Trends, Nonparametric : No
+  Spatial Adjustment                      : None
+  Adjust for Known Relative Risks         : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Drilldown
+---------
+  Same Design as Main Analysis : No
+  Purely Spatial Bernoulli     : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values     : No
+  Report Monte Carlo Rank    : No
+  Print ASCII Column Headers : No
+  User Defined Title         : 
+
+Notifications
+-------------
+  Always Send Email                      : No
+  Send Email with Results Meeting Cutoff : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+RUN INFORMATION
+
+Program completed  : Fri Oct 16 21:03:16 2026
+Total Running Time : 6 seconds
+Processor Usage    : 4 processors
