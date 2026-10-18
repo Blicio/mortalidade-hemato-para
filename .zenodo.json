@@ -1,0 +1,19 @@
+{
+  "title": "Dados e scripts R: Tendência temporal e distribuição espacial da mortalidade por neoplasias hematológicas no Pará, Amazônia brasileira, 2000-2024",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "license": "cc-by-4.0",
+  "description": "<p>Dados e scripts R do estudo ecológico sobre tendência temporal e distribuição espacial da mortalidade por neoplasias hematológicas malignas (CID-10 C81-C96) no Pará, Amazônia brasileira, 2000-2024 (manuscrito submetido à <em>Cancer Causes &amp; Control</em>).</p><p>Inclui a planilha com os óbitos do Sistema de Informações sobre Mortalidade (SIM/DATASUS, via TabNet), as causas mal definidas e as estimativas populacionais por município, sexo e faixa etária; as malhas municipais do IBGE (2020); as entradas e os resultados da varredura espaço-temporal de Kulldorff (SaTScan 10.3.3); e os scripts R que reproduzem todas as tabelas e figuras do artigo (taxas padronizadas com e sem redistribuição das causas mal definidas, regressão joinpoint, razões de mortalidade padronizadas com suavização bayesiana empírica, índice de Moran e LISA).</p><p>Código sob licença MIT (arquivo LICENSE); dados compilados sob CC BY 4.0 (arquivo LICENSE-dados.md).</p><p><strong>English:</strong> Data and R code for an ecological study of mortality from hematological malignancies in Pará, Brazilian Amazon, 2000-2024, reproducing all tables and figures of the article.</p>",
+  "creators": [
+    {"name": "Cardoso, Pablício Pereira", "orcid": "0009-0000-5983-5086", "affiliation": "Graduate Program in Biodiversity and Biotechnology of the BIONORTE Network, Institute of Collective Health, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Pereira, Sámia Rocha", "orcid": "0009-0002-2376-0873", "affiliation": "Graduate Program in Natural Resources of the Amazon, Institute of Engineering and Geosciences, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Rodrigues, Thaila Silva", "orcid": "0009-0006-7444-3770", "affiliation": "Graduate Program in Biosciences, Institute of Biodiversity and Forests, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Pires, Patrícia Gabrielly da Silva", "orcid": "0000-0002-4541-611X", "affiliation": "Graduate Program in Society, Nature and Development, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Lima, Priscila Bezerra de", "orcid": "0000-0003-0858-076X", "affiliation": "Graduate Program in Biodiversity and Biotechnology of the BIONORTE Network, Institute of Collective Health, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Sousa, Jacqueline Parente de", "orcid": "0000-0002-8597-7851", "affiliation": "Graduate Program in Biodiversity and Biotechnology of the BIONORTE Network, Institute of Collective Health, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Moraes, Tânia Mara Pires", "orcid": "0000-0003-0114-3735", "affiliation": "Institute of Collective Health, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"},
+    {"name": "Moraes, Waldiney Pires", "orcid": "0000-0001-8524-3009", "affiliation": "Graduate Program in Biodiversity and Biotechnology of the BIONORTE Network; Institute of Collective Health, Federal University of Western Pará (UFOPA), Santarém, Pará, Brazil"}
+  ],
+  "keywords": ["Hematologic neoplasms", "Mortality", "Cause of death", "Data accuracy", "Spatio-temporal analysis", "Joinpoint regression", "SaTScan", "Multiple myeloma", "Brazil", "Amazon", "R"]
+}
